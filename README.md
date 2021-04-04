@@ -1,7 +1,6 @@
-# TechBlocks
+# Tech Blocks
 
-> Open tech curriculum from zero to Blockchain. Open in the sense that the structure of this course will change depending on people's interests.
-
+> Open tech curriculum from zero to Blockchain. Open in the sense that the structure of this course will adapt according to people's interests. 
 
 # A Working Outline
 1. Collaborating with others online with Git
